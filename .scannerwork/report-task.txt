@@ -1,0 +1,6 @@
+projectKey=TimeTableMS
+serverUrl=http://localhost:9000
+serverVersion=8.9.0.43852
+dashboardUrl=http://localhost:9000/dashboard?id=TimeTableMS
+ceTaskId=AXnSlTyYLX_KB5_8hdqt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXnSlTyYLX_KB5_8hdqt
